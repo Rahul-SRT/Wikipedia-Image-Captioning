@@ -65,5 +65,4 @@ Make sure you have:
    ```bash
    git clone https://github.com/yourusername/wikipedia-image-captioning.git
    cd wikipedia-image-captioning
-# Wikipedia-Image-Captioning
-# Wikipedia-Image-Captioning
+
