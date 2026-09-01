@@ -46,7 +46,7 @@ To check how well our captions work, we use:
 
 ##  Deployment
 
-We will deploy our model on **Hugging Face**, where people can upload an image and get a caption. We use **Google Colab** to train the model with enough computing power.
+Model deployed on **Hugging Face**, where people can upload an image and get a caption. We used **Google Colab** to train the model with enough computing power.
 
 ---
 
